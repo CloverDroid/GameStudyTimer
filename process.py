@@ -1,4 +1,3 @@
-from numpy import False_
 import psutil
 
 def checkProcess(processName):

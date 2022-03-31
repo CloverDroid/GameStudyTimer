@@ -1,11 +1,9 @@
 import pathlib
-from re import L
 import threading
 from process import *
 import subprocess
 import logging
 import time
-import sys
 from random import randint
 
 gameList = ['genshinimpact','hd-player']
